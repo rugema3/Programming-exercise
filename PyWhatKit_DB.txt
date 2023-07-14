@@ -1,0 +1,10 @@
+Date: 9/7/2023
+Time: 9:33
+Phone Number: +250788683270
+Message: Hello brother Jobs, i am trying to test tou on whatsapp using a python script.Texting from the commandline.
+--------------------
+Date: 9/7/2023
+Time: 9:35
+Phone Number: +250781049931
+Message: sending from the commandline.
+--------------------

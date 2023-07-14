@@ -7,3 +7,12 @@
 Then, write a program to read the contents of the file and print them on the console.</b>
 
 </pre>
+
+<p>
+<b>calculate the sum from a created file:</b>
+
+Create a file named "numbers.txt" and write the numbers from 1 to 10 (each number on a new line).
+Write a program to read the contents of the file, calculate the sum of the numbers, 
+and print it on the console.
+
+</p>
