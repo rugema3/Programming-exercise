@@ -50,7 +50,7 @@ class StudentDatabase:
         name = input("Enter the name of the student for retrieval: ")
         found_students = []
         for student in self.students:
-            if student["name"] == name:
+            if student["name"].lower() == name.lower():
                 found_students.append(student)
         if found_students:
             for student in found_students:
