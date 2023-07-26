@@ -1,0 +1,500 @@
+   91  ls
+   92  cd Programming-exercicise
+   93  ls
+   94  cd Programming-exercise
+   95  ls
+   96  cd python_practicing
+   97  ls
+   98  vim rectangle.py
+   99  vim area.py
+  100  vim test_area.py
+  101  ls
+  102  vim test_area.py
+  103  vim area.py
+  104  vim test_area.py
+  105  vim area.py
+  106  vim test_area.py
+  107  python3 -m unittest -v test_area.py
+  108  vim test_area.py
+  109  python3 -m unittest -v test_area.py
+  110  vim area.py
+  111  vim test_area.py
+  112  python3 -m unittest -v test_area.py
+  113  vim test_area.py
+  114  python3 -m unittest -v test_area.py
+  115  vim test_area.py
+  116  python3 -m unittest -v test_area.py
+  117  ls
+  118  vim test_area.py
+  119  python3 -m unittest -v test_area.py
+  120  vim test_area.py
+  121  python3 -m unittest -v test_area.py
+  122  vim test_area.py
+  123  python3 -m unittest -v test_area.py
+  124  clear
+  125  python3 -m unittest -v test_area.py
+  126  vim area.py
+  127  python3 -m unittest -v test_area.py
+  128  vim test_area.py
+  129  python3 -m unittest -v test_area.py
+  130  vim test_area.py
+  131  python3 -m unittest -v test_area.py
+  132  vim area.py
+  133  python3 -m unittest -v test_area.py
+  134  vim test_area.py
+  135  python3 -m unittest -v test_area.py
+  136  vim area.py
+  137  python3 -m unittest -v test_area.py
+  138  vim area.py
+  139  python3 -m unittest -v test_area.py
+  140  vim area.py
+  141  python3 -m unittest -v test_area.py
+  142  vim area.py
+  143  python3 -m unittest -v test_area.py
+  144  vim area.py
+  145  cat area.py
+  146  vim area.py
+  147  vim test_area.py
+  148  python3 -m unittest -v test_area.py
+  149  vim test_area.py
+  150  python3 -m unittest -v test_area.py
+  151  clear
+  152  vim test_area.py
+  153  python3 -m unittest -v test_area.py
+  154  vim test_area.py
+  155  python3 -m unittest -v test_area.py
+  156  vim area.py
+  157  vim test_area.py
+  158  python3 -m unittest -v test_area.py
+  159  cat area.py
+  160  cat test_area.py
+  161  vim test_area.py
+  162  python3 -m unittest -v test_area.py
+  163  cat area.py
+  164  clear
+  165  cd ..
+  166  cd api
+  167  ls
+  168  cd web
+  169  ls
+  170  cat app1.py
+  171  cd templates
+  172  vim index1.html
+  173  cd ..
+  174  vim app1.py
+  175  cd ..
+  176  cd api
+  177  cd ..
+  178  git clone https://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@github.com/rugema3/Remmittance.com.git
+  179  cd Remmittance.com
+  180  ls
+  181  vim README.md
+  182  git add .
+  183  git commit -m'adding a readme file to the project so that everyone can understand before starting working on the project.'
+  184  git push
+  185  vim README.md
+  186  git add .
+  187  git commit -m'updating the readme file.'
+  188  git push
+  189  vim README.md
+  190  git add .
+  191  git commit -m'using ordered lists.'
+  192  git push
+  193  vim paypal_utils.py
+  194  vim app.py
+  195  vim product.py
+  196  vim currency_utils.py
+  197  ls
+  198  mkdir templates
+  199  cd templates
+  200  vim index.html
+  201  vim result.html
+  202  ls
+  203  cd ..
+  204  vim app.py
+  205  vim paypal_utils.py
+  206  python3 app.py
+  207  cat paypal_utils.py
+  208  clear
+  209  pip install python-dotenv
+  210  vim .env
+  211  vim app.py
+  212  python3 app.py
+  213  cat app.py
+  214  vim currency_utils.py
+  215  vim app.py
+  216  python3 app.py
+  217  cd templates
+  218  vim index.html
+  219  cd ..
+  220  cd api
+  221  cd web
+  222  ls
+  223  vim app1.py
+  224  cd ..
+  225  vim vend_airtime.py
+  226  cd ..
+  227  cd Remmittance.com
+  228  ls
+  229  python3 app.py
+  230  vim currency_utils.py
+  231  python3 app.py
+  232  vim currency_utils.py
+  233  python3 app.py
+  234  clear
+  235  vim app.py
+  236  cat app.py
+  237  vim app.py
+  238  python3 app.py
+  239  vim app.py
+  240  python3 app.py
+  241  cat app.py
+  242  vim app.py
+  243  python3 app.py
+  244  clear
+  245  cd ..
+  246  cd api
+  247  cd web
+  248  ls
+  249  python3 app1.py
+  250  clear
+  251  vim app1.py
+  252  cat app1.py
+  253  cd ..
+  254  cd Remmittance.com
+  255  cat app.py
+  256  cat paypal_utils.py
+  257  ls
+  258  cat currency_utils.py
+  259  cat product.py
+  260  clear
+  261  cd ..
+  262  ls
+  263  cd api
+  264  cd web
+  265  ls
+  266  vim app1.py
+  267  cd ..
+  268  ls
+  269  vim vend_airtime.py
+  270  cat vend_airtime.py
+  271  cd ..
+  272  cd Remmittance.com
+  273  vim vend_airtime.py
+  274  vim app1.py
+  275  rm app1.py
+  276  cd ..
+  277  cd api
+  278  cat credentials.py
+  279  cd ..
+  280  cd Remmittance.com
+  281  vim vend_airtime.py
+  282  vim credentials.py
+  283  ls
+  284  python3 app.py
+  285  clear
+  286  vim app.py
+  287  python3 app.py
+  288  vim app.py
+  289  vim credentials.py
+  290  python3 app.py
+  291  vim paypal_utils.py
+  292  python3 app.py
+  293  vim paypal_utils.py
+  294  python3 app.py
+  295  vim app.py
+  296  python3 app.py
+  297  cat paypal_utils.py
+  298  vim currency_utils.py
+  299  vim app.py
+  300  python3 app.py
+  301  vim app.py
+  302  python3 app.py
+  303  vim paypal_utils.py
+  304  python3 app.py
+  305  clear
+  306  cat *.py
+  307  cd templates
+  308  cat *.html
+  309  vim app.py
+  310  rm *.py
+  311  cd ..
+  312  vim app.py
+  313  cd templates
+  314  vim index.html
+  315  vim result.html
+  316  cd ..
+  317  vim app.py
+  318  python3 app.py
+  319  cat app.py
+  320  vim currency_utils.py
+  321  vim app.py
+  322  python3 app.py
+  323  cd templates
+  324  vim index.html
+  325  cd ..
+  326  python3 app.py
+  327  cat app.py
+  328  vim app.py
+  329  python3 app.py
+  330  clear
+  331  vim app.py
+  332  python3 app.py
+  333  vim app.py
+  334  python3 app.py
+  335  clear
+  336  cd templates
+  337  vim index.html
+  338  cd ..
+  339  vim currency_utils.py
+  340  python3 app.py
+  341  exit
+  342  sftp d5b54ec934e0@d5b54ec934e0.cda76b66.alx-cod.online
+  343  exit
+  344  ls
+  345  git clone https://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@github.com/rugema3/alx-system_engineering-devops.git
+  346  cd alx-system_engineering-devops
+  347  ls
+  348  mkdir command_line_for_the_win
+  349  cd command_line_for_the_win
+  350  ls
+  351  git add .
+  352  git commit -m'the first 9 challenge'
+  353  git push
+  354  git add .
+  355  ls
+  356  git add .
+  357  git commit -m'Completed the 9 next tasks, getting to 18 total.'
+  358  git push
+  359  ls
+  360  git add .
+  361  git commit -m'I am adding the last 9 tasks making in 27 tasks.'
+  362  git push
+  363  ls
+  364  sftp d5b54ec934e0@d5b54ec934e0.cda76b66.alx-cod.online
+  365  vim README.md
+  366  git add .
+  367  git commit -m'adding a readme file.'
+  368  git push
+  369  exit
+  370  cd api
+  371  ls
+  372  python3 vend_airtime3.py
+  373  exit
+  374  git clone https://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@github.com/rugema3/sorting_algorithms.git
+  375  cd sorting_algorithms
+  376  vim README.md
+  377  git add .
+  378  git commit -m'Readme file created.'
+  379  git push
+  380  vim 0-bubble_sort.c
+  381  vim sort.h
+  382  vim o-o
+  383  vim given_funcs.c
+  384  ls
+  385  clear
+  386  vim print_list.c
+  387  vim 0-main.c
+  388  betty *.c
+  389  yesbetty *.c
+  390  betty *.c
+  391  yesbetty print_list.c
+  392  betty print_list.c
+  393  yesbetty *.c
+  394  betty *.c
+  395  yesbetty *.c
+  396  betty *.c
+  397  yesbetty 0-main.c
+  398  betty *.c
+  399  yesbetty print-array.c
+  400  betty *.c
+  401  gcc -Wall -Wextra -Werror -pedantic  -std=gnu89 0-bubble_sort.c 0-main.c print_array.c -o bubble
+  402  ls
+  403  vim print-array.c
+  404  ls
+  405  rm print-array.c
+  406  gcc -Wall -Wextra -Werror -pedantic  -std=gnu89 0-bubble_sort.c 0-main.c print_array.c -o bubble
+  407  vim 0-bubble_sort.c
+  408  gcc -Wall -Wextra -Werror -pedantic  -std=gnu89 0-bubble_sort.c 0-main.c print_array.c -o bubble
+  409  ./bubble
+  410  betty *.c
+  411  git add .
+  412  git commit -m'a function that sorts an array of integers in ascending order using the Bubble sort algorithm'
+  413  git push
+  414  vim o-o
+  415  git add .
+  416  git commit -m'modification to o-o'
+  417  git push
+  418  vim o-o
+  419  ls
+  420  rm o-o
+  421  ls
+  422  gcc -Wall -Wextra -Werror -pedantic  -std=gnu89 0-bubble_sort.c 0-main.c print_array.c -o bubble
+  423  ./bubble
+  424  git add .
+  425  git commit -m'renamed the file wrong.'
+  426  git push
+  427  vim 0-o
+  428  vim 0-O
+  429  git add .
+  430  git commit -m'a few modifications.'
+  431  git push
+  432  vim 1-insertion_sort_list.c
+  433  yesbetty 1-insertion_sort_list.c
+  434  betty 1-insertion_sort_list.c
+  435  vim 1-insertion_sort_list.c
+  436  betty 1-insertion_sort_list.c
+  437  vim sort.h
+  438  vim 1-main.c
+  439  yesbetty 1-main.c
+  440  betty 1-main.c
+  441  ./insertion
+  442  exit
+  443  cd Programming-exercise
+  444  cd python_practicing
+  445  ls
+  446  vim test_calculator.py
+  447  python3 vend_airtime3.py
+  448  python3 -m unittest -v test_calculator.py
+  449  vim test_calculator.py
+  450  python3 -m unittest -v test_calculator.py
+  451  vim test_calculator.py
+  452  python3 -m unittest -v test_calculator.py
+  453  vim test_calculator.py
+  454  python3 -m unittest -v test_calculator.py
+  455  vim test_calculator.py
+  456  python3 -m unittest -v test_calculator.py
+  457  clear
+  458  vim test_calculator.py
+  459  python3 -m unittest -v test_calculator.py
+  460  vim test_calculator.py
+  461  python3 -m unittest -v test_calculator.py
+  462  vim test_calculator.py
+  463  python3 -m unittest -v test_calculator.py
+  464  vim test_calculator.py
+  465  python3 -m unittest -v test_calculator.py
+  466  vim test_calculator.py
+  467  python3 -m unittest -v test_calculator.py
+  468  vim test_calculator.py
+  469  python3 -m unittest -v test_calculator.py
+  470  clear
+  471  python3 -m unittest -v test_calculator.py
+  472  cat test_calculator.py
+  473  vim test_calculator.py
+  474  python3 -m unittest -v test_calculator.py
+  475  vim test_calculator.py
+  476  python3 -m unittest -v test_calculator.py
+  477  vim test_calculator.py
+  478  python3 -m unittest -v test_calculator.py
+  479  vim test_calculator.py
+  480  python3 -m unittest -v test_calculator.py
+  481  vim test_calculator.py
+  482  python3 -m unittest -v test_calculator.py
+  483  vim test_calculator.py
+  484  python3 -m unittest -v test_calculator.py
+  485  vim test_calculator.py
+  486  python3 -m unittest -v test_calculator.py
+  487  vim test_calculator.py
+  488  python3 -m unittest -v test_calculator.py
+  489  55f5c1d7b6a7@55f5c1d7b6a7.98c31d3e.alx-cod.online
+  490  sftp 55f5c1d7b6a7@55f5c1d7b6a7.98c31d3e.alx-cod.online
+  491  sudo sftp 55f5c1d7b6a7@55f5c1d7b6a7.98c31d3e.alx-cod.online
+  492  clear
+  493  cd ..
+  494  cd api
+  495  ls
+  496  cat vend_electricity.py
+  497  python3 vend_electricity.py
+  498  vim vend_electricity.py
+  499  python3 vend_electricity.py
+  500  exit
+  501  cd api
+  502  cd web
+  503  ls
+  504  cd ..
+  505  cd Remmittance.com
+  506  ls
+  507  vim app.py
+  508  ls
+  509  cd ..
+  510  cd Programming-exercise
+  511  ls
+  512  mkdir bash
+  513  cd bash
+  514  clear
+  515  touch hello_world.sh
+  516  which bash
+  517  vim hello_world.sh
+  518  chmod 777 hello_world.sh
+  519  ./hello_world.sh
+  520  vim variables.sh
+  521  chmod 777 variables.sh
+  522  ./777 variables.sh
+  523  ./variables.sh
+  524  vim variables.sh
+  525  chmod 777 variables.sh
+  526  ./variables.sh
+  527  expr 16 / 4
+  528  16 / 4
+  529  expr 5 * t
+  530  expr 5 * 8
+  531  expr 6 + 8
+  532  expr 6 * 8
+  533  vim input.sh
+  534  chmod 777 input.sh
+  535  ./imput.sh
+  536  ./input.sh
+  537  vim input.sh
+  538  chmod 777 input.sh
+  539  ./input.sh
+  540  vim if_statements.sh
+  541  chmod 777 if_statements.sh
+  542  ./if_statements.sh
+  543  vim if_statements.sh
+  544  chmod 777 if_statements.sh
+  545  ./if_statements.sh
+  546  vim if_statements.sh
+  547  chmod 777 if_statements.sh
+  548  ./if_statements.sh
+  549  cat if_statements.sh
+  550  vim if_statements.sh
+  551  chmod 777 if_statements.sh
+  552  ./if_statements.sh
+  553  vim if_statements.sh
+  554  chmod 777 if_statements.sh
+  555  ./if_statements.sh
+  556  vim for_loop.sh
+  557  chmod 777 for_loop.sh
+  558  ./for_loop.sh
+  559  clear
+  560  vim for_loop.sh
+  561  chmod 777 for_loop.sh
+  562  ./for_loop.sh
+  563  vim for_loop.sh
+  564  chmod 777 for_loop.sh
+  565  ./for_loop.sh
+  566  vim while_loop.sh
+  567  chmod 777 while_loop.sh
+  568  ./while_loop.sh
+  569  vim while_loop.sh
+  570  chmod 777 while_loop.sh
+  571  ./while_loop.sh
+  572  vim while_loop.sh
+  573  chmod 777 while_loop.sh
+  574  ./while_loop.sh
+  575  clear
+  576  vim while_loop.sh
+  577  chmod 777 while_loop.sh
+  578  ./while_loop.sh
+  579  vim while_loop.sh
+  580  chmod 777 while_loop.sh
+  581  ./while_loop.sh
+  582  ls
+  583  pwd
+  584  crontab -l
+  585  find . -type f -name "*.sh"
+  586  ps
+  587  date
+  588  df
+  589  history
+  590  history > history.txt
