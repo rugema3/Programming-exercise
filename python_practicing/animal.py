@@ -59,3 +59,8 @@ class Animal():
         dob = current_year - self.age
 
         return f"The {self.name} was born in {dob}"
+
+    def __str__(self):
+        """Define the string representation of the Animal instance."""
+
+        return f"{self.name} (Species: {self.species}, Age: {self.age}, Sound: {self.sound})"
