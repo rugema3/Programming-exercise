@@ -25,7 +25,21 @@ def create_animal():
         print(animal_instance.birthday())
         print()
 
-def main():
+def show_zoo():
+    """Define show_zoo.
+
+    Description:    This function shows the list of 
+                    animals in teh zoo.
+
+    """
+    if len(zoo) == 0:
+        print("There have no animals in the zoo.")
+    else:
+        print("Animals in the zoo: ")
+        for animal in zoo:
+            print(animal)
+
+if __name__ == '__main__':
     """Main function to handle user choices."""
     while True:
         print("\nWhat would you like to do?")
@@ -38,18 +52,10 @@ def main():
         if choice == '1':
             create_animal()
         elif choice == '2':
-            if len(zoo) == 0:
-                print("No animals in the zoo yet.")
-            else:
-                print("Animals in the zoo: ")
-                for animal_instance in zoo:
-                    print(animal_instance)
+            show_zoo()
+
         elif choice == '3':
             print("Goodbye!")
             break
         else:
             print("Invalid choice. Please try again.")
-
-if __name__ == '__main__':
-    main()
-
