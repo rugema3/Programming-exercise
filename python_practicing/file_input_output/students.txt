@@ -1,0 +1,7 @@
+Alex, 23, Gasabo, male
+Umuhoza, 9, kigali, female
+Shami, 3, Huye, male
+Alex,  23,  Gasabo,  male
+Umuhoza,  9,  kigali,  female
+Shami,  3,  Huye,  male
+bahati, 12, kibuye, male

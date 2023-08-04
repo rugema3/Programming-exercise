@@ -1,0 +1,5 @@
+
+{'title': 'a', 'author': 's', 'year': 'a', 'ISBN': 's'}
+{'title': 'a', 'author': 'w', 'year': 'a', 'ISBN': 'q'}
+{'title': 'physics for today and tomorrow', 'author': 'ton duncan', 'year': '1997', 'ISBN': '123456787'}
+{'title': 'abbot', 'author': 'alex', 'year': '1234', 'ISBN': '901029883283'}
