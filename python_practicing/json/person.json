@@ -1,0 +1,11 @@
+{
+   "name": "Rugema",
+   "age": 25,
+   "city": "San Francisco",
+   "is_student": true,
+   "hobbies": [
+      "painting",
+      "traveling",
+      "yoga"
+   ]
+}
