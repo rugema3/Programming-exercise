@@ -17,15 +17,17 @@ In this repository, I intend to accomplish the following objectives:
 </li>
 <br>
 <h1>Why This Repository Matters</h1>
+<h3>Demonstrates Practical Skills:</h3> 
+These projects highlight my proficiency in working with APIs, data manipulation, and automation—a set of skills valuable for various professional settings.
 
-<li><h3>Demonstrates Practical Skills:</h3> These projects highlight my proficiency in working with APIs, data manipulation, and automation—a set of skills valuable for various professional settings.</li>
-
-<li><h3>Consistent Online Presence:</h3> The automated LinkedIn posting demonstrates my commitment to maintaining an active and engaging LinkedIn presence, which is essential for networking and career growth.</li>
-
-<li><h3>Potential for Collaboration:</h3> I'm open to collaboration and welcome feedback or ideas for improving and expanding the capabilities of these scripts.</li>
+<h3>Consistent Online Presence:</h3> 
+The automated LinkedIn posting demonstrates my commitment to maintaining an active and engaging LinkedIn presence, which is essential for networking and career growth.
+<h3>Potential for Collaboration:</h3> 
+I'm open to collaboration and welcome feedback or ideas for improving and expanding the capabilities of these scripts.
 <p>
 I'm excited to share my projects with you, and I hope they reflect my dedication to continuous learning and improvement. Feel free to explore the code, and don't hesitate to reach out if you have any questions or suggestions.
 </p>
-Thank you for visiting my GitHub repository!
+
+<b>Thank you for visiting my GitHub repository!</b>
 
 
