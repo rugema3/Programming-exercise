@@ -67,7 +67,7 @@ class SocialMediaAutomator:
             return f"Post failed with status code: {response.status_code}"
 
 if __name__ == "__main__":
-    os.chdir(os.path.dirname(os.path.abspath(__file__))
+    os.chdir(os.path.dirname(os.path.abspath(__file__)))
     social_media_automator = SocialMediaAutomator()
     
     post_content = jokes.get_programming_joke()
